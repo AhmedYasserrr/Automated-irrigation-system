@@ -15,6 +15,7 @@ very specialized plan of water and nutrients to the plants. This way the
 project is able to fulfill the design requirements which are: intelligence in
 the aspect of accuracy and level of intelligence, the applicability, and the
 low cost.
+
 Moreover, to construct a prototype for this project Arduino UNO and AI
 python coding are used as a microprocessor and AI department to
 integrate the data, then it was trained to collect the data and set a best fit
@@ -25,6 +26,7 @@ the cost of other smart irrigation system. The system is on level one of
 intelligence so it was able to preform the required tasks, and the system
 was pretty accurate with accuracy of 99.1%. Moreover, the used
 mechanisms in the project helped it to applicable.
+
 In conclusion, The AI system is much better than the ordinary ways of
 irrigation and fertilizing, where a specialized plan gives better cost, more
 intelligence and less effort.
