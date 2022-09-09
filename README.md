@@ -1,4 +1,4 @@
-# Robtices
+# Automated irrigation system
 The world is going towards a more specialized version of everything.
 Hearing about a farmer that wakes up early to water his plants is
 something normal to hear. But this project purpose is to change this
